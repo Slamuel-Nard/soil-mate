@@ -7,4 +7,4 @@ Author: Michael Guay, Sam Nardone, Ben Hazzard
 Text Domain: soil-mate
 */
 
-echo "Our Plugin";
+echo "Our Plugins”;
